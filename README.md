@@ -7,5 +7,12 @@ It was set firstly as a challenge for a friend of mine, but after some time I de
 
 ![immagine](https://user-images.githubusercontent.com/87281326/125208940-e41c5a80-e295-11eb-8c67-45820da5e2f5.png)
 
+# 16-bit version
+A 16-bit version is now available too. Developed on Windows NT 3.5/ME and Visual Basic 4.0, it currently works only on the 9x kernnel, so it's the perfect fit for those old systems.
+![immagine](https://user-images.githubusercontent.com/87281326/126544985-b38e0ba6-7db4-4b45-8280-14586430d72d.png)
+
+# DOS version
+I'm currently thinking on doing a full DOS version too of this, developed with Visual Basic 1.0 for DOS.
+
 # Bug reporting
-You can report bugs or suggestion via the attached Google Form: https://forms.gle/1uwyeejxbKZhAyAW6
+You can report bugs or suggestion by clicking on "Issues" on the top of the page. I'll answer to them as soon as I can.
