@@ -30,3 +30,6 @@ There is now available a DOS version, Starboy/DOS! It is a bit different from th
 
 # Bug reporting
 You can report bugs or suggestion by clicking on "Issues" on the top of the page. I'll answer to them as soon as I can.
+
+# Versions and source code
+You can find all the versions of Starboy, including the original .frm, .bak, .mak, and whatnot files about Starboy. Every time a new release gets released these branches are updated.
