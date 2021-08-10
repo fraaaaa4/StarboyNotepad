@@ -10,9 +10,10 @@ It has three versions: Starboy Notepad (32-bit), Starboy Notepad/16, and Starboy
 It is the main version of Starboy Notepad, and the one that will run on most computers.
 ![immagine](https://user-images.githubusercontent.com/87281326/127229333-1a2cb0e0-7cd4-40be-bd47-d1519a19307a.png)
 
-It features many features, such as open ad save, different fonts, different colours, alignment and bullets. It's still though not finished, but it's very promising! It features also a splash screen, and when you don't have all the tools available, another window pops up. It should run fine on Windows XP or superior.
+It features many features, such as open ad save, different fonts, different colours, alignment and bullets. It's still though not finished, but it's very promising! It features also a splash screen, and when you don't have all the tools available, another window pops up. It should run fine on Windows 98 or superior.
 
-![immagine](https://user-images.githubusercontent.com/87281326/127225209-cf618a57-d8bb-4a8a-ad62-230e868bc719.png)
+![immagine](https://user-images.githubusercontent.com/87281326/128833494-c3b32566-4d3e-45de-a82a-c10d8ed8f7c4.png)
+
 
 # 16-bit version
 ![immagine](https://user-images.githubusercontent.com/87281326/127236215-c733772e-9325-486e-b0de-37bffadd1d95.png)
