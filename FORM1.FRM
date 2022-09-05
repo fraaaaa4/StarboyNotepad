@@ -2398,13 +2398,15 @@ Form5.Show
 End Sub
 
 Private Sub Text1_Change()
-
+On Error Resume Next
+Dim i As Integer
+Dim Mid As Integer
 If Text1.Font.Bold = True Then Label23.Visible = True
-If Text1.Font.Bold = True Then Shape12.Visible = True
+
 If Text1.Font.Italic = True Then Label25.Visible = True
-If Text1.Font.Italic = True Then Shape13.Visible = True
+
 If Text1.Font.Underline = True Then Label27.Visible = True
-If Text1.Font.Underline = True Then Shape14.Visible = True
+
 
 
 Dim Counts As Integer

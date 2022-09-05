@@ -1,0 +1,98 @@
+:Index Crystal Reports Help=crw.hlp
+:Index Custom Control Reference=ctrlref.hlp
+:Index Data Manager Help=datamgr.hlp
+:Index Enterprise Edition Help=entprise.hlp
+:Index Product Support Help=pss.hlp
+:Index Samples Help=samples.hlp
+:Index Setup Wizard Help=setupwiz.hlp
+:Index Visual Basic Help=vb.hlp
+:Index Visual Basic Readme=readme.hlp
+1 Read Me=contents@readme.hlp
+1 Visual Basic Help
+2 What's New=vbconwhatsnew@vb.hlp>main
+2 Contents Topic=vbidxmaincontents@vb.hlp>Main
+2 Programming Language
+3 Language Summary=idxreallangref@vb.hlp>right
+3 Functions=vbidxrealfunctions@vb.hlp>right
+3 Methods=vbidxrealmethods@vb.hlp>right
+3 Events=vbidxrealevents@vb.hlp>right
+3 Properties=vbidxrealproperties@vb.hlp>right
+3 Statements=vbidxrealstatements@vb.hlp>right
+3 Objects=vbidxrealobjects@vb.hlp>right
+3 Trappable Errors=idxrealmsgtrap@vb.hlp>right
+3 Keywords by Task=vaidxrealkeywordsbytask@vb.hlp>right
+2 Using Visual Basic
+3 How To Information Summary=vbidxHowToSummary@vb.hlp>Right
+3 Learning Visual Basic=vbidxLearningVB@vb.hlp>Right
+3 Creating the Interface=vbidxcreatinginterface@vb.hlp>Right
+3 Setting Properties=vbidxsettingproperties@vb.hlp>Right
+3 Writing and Debugging Code=vbidxwritingdebugging@vb.hlp>Right
+3 Creating Your Own Objects=vbidxcreatingobjects@vb.hlp>right
+3 Creating Distribution Media With the Setup Toolkit=vbidxrealcreatingdistributionsetup@vb.hlp>Right
+1 Data Access=daidxRealDataAccess@vb.hlp>Main
+1 Glossary=vbidxRealDefs@vb.hlp>Right
+1 Development Environment=idxdevelopmentenvironment@vb.hlp>Right
+1 Miscellaneous Information=idxinterfaceandOther@vb.hlp>Right
+1 Using the Microsoft Knowledge Base=kbkb_Help_Contents@vb.hlp
+1 Text Files=vbidxTextFiles@vb.hlp>Main
+1 Other Help Files=vbidxhelpfiles@vb.hlp>Main
+1 Copyright Information=vbidxCopyright@vb.hlp>main
+1 Custom Control Help
+2 Contents Topic=ccr_contents32@ctrlref.hlp>Main
+2 Windows 95 Controls
+3 ImageList=cpobjimagelist@ctrlref.hlp>main
+3 ListView=cpobjlistview@ctrlref.hlp>main
+3 ProgressBar=cpobjprogressbar@ctrlref.hlp>main
+3 RichTextBox=cpobjrichedit@ctrlref.hlp>main
+3 Slider=cpobjslider@ctrlref.hlp>main
+3 StatusBar=cpobjstatusbar@ctrlref.hlp>main
+3 TabStrip=cpobjtabcontrol@ctrlref.hlp>main
+3 Toolbar=cpobjtoolbar@ctrlref.hlp>main
+3 TreeView=cpobjTreeView@ctrlref.hlp>Main
+2 3D Controls
+3 3D Check Box=ctl3dchkbox@ctrlref.hlp>main
+3 3D Command Button=ctl3dcmd@ctrlref.hlp>main
+3 3D Frame=ctl3dframe@ctrlref.hlp>main
+3 3D Group Push Button=ctl3dgroup@ctrlref.hlp>main
+3 3D Option Button=ctl3doption@ctrlref.hlp>main
+3 3D Panel=ctl3dpanel@ctrlref.hlp>main
+2 System Controls
+3 Communications=ctlcomm@ctrlref.hlp>MAIN
+3 Key State=ctlkeystate@ctrlref.hlp>main
+3 MAPI Message=ctlmapim@ctrlref.hlp>main
+3 MAPI Session=ctlmapis@ctrlref.hlp>main
+3 Multimedia MCI=ctlmci@ctrlref.hlp>main
+2 Miscellaneous Controls
+3 Animated Button=ctlanibttn@ctrlref.hlp>main
+3 Gauge=ctlgauge@ctrlref.hlp>main
+3 Graph=ctlgraph@ctrlref.hlp>main
+3 Masked Edit=ctlmaskedit@ctrlref.hlp>main
+3 Outline=ctloutline@ctrlref.hlp>main
+3 Picture Clip=ctlpicclip@ctrlref.hlp>Main
+3 Spin Button=ctlspin@ctrlref.hlp>main
+3 SSTab Dialog=cpobjtabbeddialog@ctrlref.hlp>main
+2 Constants and Other Information
+3 Visual Basic Custom Control Constants=vbidxvisualbasiccustomconstants@ctrlref.hlp>main
+3 Creating, Running, and Distributing Executable (.EXE) Files=ccr_exe@ctrlref.hlp>Main
+3 Object Type=ccr_objecttype@ctrlref.hlp>Main
+3 Registering OLE Custom Controls=ccr_regolecc@ctrlref.hlp>main
+3 Trappable Errors for Windows 95 Custom Controls=msgWindows95controlserrors@ctrlref.hlp>main
+3 Using Custom Properties Dialog Boxes=vbhowusingcustompropertydialogboxes@ctrlref.hlp>main
+1 Enterprise Help
+2 Remote Data Objects and the RemoteData Control
+3 Using Remote Data Objects and the RemoteData Control=rdidxMainContents@entprise.hlp>Main
+3 RemoteData Control=rdobjremotedata@entprise.hlp>Main
+3 Remote Data Objects Language Summary=rdidxrdolanguagesummary@entprise.hlp>Right
+3 Constants=rdcstRemoteDataConstants@entprise.hlp>Main
+3 Events=rdidxREalEvents@entprise.hlp>Right
+3 Methods=rdidxRealMethods@entprise.hlp>Right
+3 Objects and Collections=rdidxRealObjects@entprise.hlp>Right
+3 Properties=rdidxRealProperties@entprise.hlp>Right
+3 Remote Data Object Model=rdidxremotedataobjectmodel@entprise.hlp>Main
+3 Trappable Errors=rdidxRemoteDataTrappableErrors@entprise.hlp>Right
+3 Conceptual Information Summary=rdidxrealrdconinfosum@entprise.hlp>Right
+3 Glossary=rdidxrealglossary@entprise.hlp>Right
+2 Component Manager
+3 Using the Component Manager=cmidxComponentManager@entprise.hlp>Main
+3 How-to Information=cmidxHowtoInformation@entprise.hlp>Right
+3 Interface Information=cmidxInterfaceInformation@entprise.hlp>Right
